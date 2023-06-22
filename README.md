@@ -23,7 +23,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Leoonv2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Leoonv2" /></a></p><br><br>
 <p>
-  <a href="https://www.paypal.me/LeoonGoesBrr/10">
+  <a href="https://www.paypal.me/LeonGoesBrr/10">
       <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
   </a>
 </p>
