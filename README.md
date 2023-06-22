@@ -22,9 +22,11 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/Leoonv2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Leoonv2" /></a></p><br><br>
-<a href="https://paypal.me/LeonGoesBrr">
-  <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
-</a>
+<p>
+  <a href="https://www.paypal.me/LeoonGoesBrr/10">
+      <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="paypal">
+  </a>
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leoonv2&show_icons=true&theme=dark&locale=en" alt="leoonv2" /></p>
 
