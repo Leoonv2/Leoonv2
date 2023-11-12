@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoonv2&label=Profile%20views&color=0eb440&style=flat" alt="leoonv2" /> </p>
 
-- 🔭 I’m currently working on **Nothing**
+- 🔭 I’m currently working on **DevTrack**
 
-- 🌱 I’m currently learning **Javascript, C#, Java**
+- 🌱 I’m currently learning **TypeScript, Java**
 
 - 📫 How to reach me **krjganovleon@gmail.com**
 
