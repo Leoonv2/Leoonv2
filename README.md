@@ -21,7 +21,7 @@
 ![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus&logoColor=blue)
+![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus)
 
 <h3 align="left">Technologies & Frameworks:</h3>
 
