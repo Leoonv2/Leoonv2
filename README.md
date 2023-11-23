@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leon</h1>
 <h3 align="center">A Young Hobby Developer from Germany</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leoonv2&label=Profile%20views&color=0eb440&style=flat" alt="leoonv2" /> </p>
-
 - 🔭 I’m currently working on: **DevTrack**
 
 - 🌱 I’m currently learning: **TypeScript, Java**
