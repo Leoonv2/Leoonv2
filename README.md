@@ -40,7 +40,7 @@
 ![git](https://img.shields.io/badge/git-black?style=flat-square&logo=git)
 ![github](https://img.shields.io/badge/github-black?style=flat-square&logo=github)
 ![docker](https://img.shields.io/badge/docker-black?style=flat-square&logo=docker)
-![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysq)
+![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
 
 <h3 align="left">Support:</h3>
