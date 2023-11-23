@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leoonv2&label=Profile%20views&color=0eb440&style=flat" alt="leoonv2" /> </p>
 
-- 🔭 I’m currently working on **DevTrack**
+- 🔭 I’m currently working on: **DevTrack**
 
-- 🌱 I’m currently learning **TypeScript, Java**
+- 🌱 I’m currently learning: **TypeScript, Java**
 
-- 📫 How to reach me **krjganovleon@gmail.com**
+- 📫 How to reach me: **krjganovleon@gmail.com**
 
-- ⚡ Fun fact **Why do programmers prefer dark mode? Because light attracts bugs!**
+- ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
