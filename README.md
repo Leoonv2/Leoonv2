@@ -21,7 +21,7 @@
 ![csharp](https://img.shields.io/badge/csharp-black?style=flat-square&logo=csharp)
 ![javascript](https://img.shields.io/badge/javascript-black?style=flat-square&logo=javascript)
 ![typescript](https://img.shields.io/badge/typescript-black?style=flat-square&logo=typescript)
-![cplusplus](https://img.shields.io/badge/c++-black?style=flat-square&logo=cplusplus)
+
 
 <h3 align="left">Technologies & Frameworks:</h3>
 
@@ -29,7 +29,6 @@
 ![html5](https://img.shields.io/badge/html5-black?style=flat-square&logo=html5)
 ![node.js](https://img.shields.io/badge/node.js-black?style=flat-square&logo=node.js)
 ![discord](https://img.shields.io/badge/discord.js-black?style=flat-square&logo=discord)
-![electron](https://img.shields.io/badge/electron-black?style=flat-square&logo=electron)
 ![express](https://img.shields.io/badge/express-black?style=flat-square&logo=express)
 
 <h3 align="left">DevOps & Tools:</h3>
