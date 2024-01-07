@@ -52,9 +52,5 @@
         <li>Tron: TBZyB3MXjLeDEcy1qJ8jwWUZzHq9vCVWQd</li> 
 </ul>
 
-<a href="https://www.paypal.me/LeonGoesBrr/10">Paypal</a>
-
-
-<p><a href="https://www.buymeacoffee.com/Leoonv2"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Leoonv2" /></a></p>
 
 
