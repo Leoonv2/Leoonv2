@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **DevTrack**
 
-- 🌱 I’m currently learning: **TypeScript, Java**
+- 🌱 I’m currently learning: **Flutter(Dart), Java**
 
 - 📫 How to reach me: **krjganovleon@gmail.com**
 
