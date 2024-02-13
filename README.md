@@ -41,14 +41,7 @@
 ![mysql](https://img.shields.io/badge/mysql-black?style=flat-square&logo=mysql)
 ![postman](https://img.shields.io/badge/postman-black?style=flat-square&logo=postman)
 
-<h3 align="left">Support:</h3>
-<ul> 
-        <li>Bitcoin: bc1qfw5p8kqnclysws95ttwt34h2e0s0qwz45p6758</li> 
-        <li>Etherium: 0xD318dfADE7a4F22B3b8bF4f84Bb4D2aB309fBc87</li> 
-        <li>XRP: rarrXMpyo4viUaaX6cob5ej3wMW2sTA2fA</li> 
-        <li>Solana: 6ZXpwKPK2MTVBUsyfQRF5CworHsMtwr6ST8Hv5E5UTrQ</li> 
-        <li>Tron: TBZyB3MXjLeDEcy1qJ8jwWUZzHq9vCVWQd</li> 
-</ul>
+
 
 
 
