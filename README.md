@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on: **/**
 
-- 🌱 I’m currently learning: **Flutter(Dart), Java**
+- 🌱 I’m currently learning: **Typescript, C++**
 
 
 - ⚡ Fun fact: **Why do programmers prefer dark mode? Because light attracts bugs!**
